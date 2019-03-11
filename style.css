@@ -1,6 +1,19 @@
+#container{
+  height: 10vh;
+  width: 100vw;
+  max-width:100%;
+}
+#container > section.head {
+  background-image: url('background.jpg');
+  color: white;
+  position: relative;
+}
+h1{
+  background-color:#2589BD;
+  color:#FFFFFF;
+}
 body {
-  background-color:	#DAEDBD;
-  color:#45666B;
+  color:#2589BD;
   text-align: center;
   font-family: Tahoma;
 }
