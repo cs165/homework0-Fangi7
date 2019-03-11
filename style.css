@@ -1,5 +1,5 @@
 #container{
-  height: 25vh;
+  height: 30vh;
   width: 100vw;
   max-width:100%;
 }
@@ -19,4 +19,13 @@ body {
   color:#2589BD;
   text-align: center;
   font-family: Tahoma;
+}
+.block_shadow{
+  
+}
+.block_shadow:hover {
+       /* 加粗的陰影外框 */
+        box-shadow: 0 0 10px 0 #888;
+        background-color:#E5F3F2;
+   
 }
