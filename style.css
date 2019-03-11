@@ -25,7 +25,6 @@ body {
 }
 .block_shadow:hover {
        /* 加粗的陰影外框 */
-        box-shadow: 0 0 3px 3px #888;
-        background-color:#E5F3F2;
-   
+        box-shadow: 3px 3px 3px 3px #888;
+       
 }
