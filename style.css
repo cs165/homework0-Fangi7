@@ -1,12 +1,15 @@
 #container{
-  height: 10vh;
+  height: 25vh;
   width: 100vw;
   max-width:100%;
 }
-#container > section.head {
-  background-image: url('background.JPG');
-  color: white;
-  position: relative;
+#container > section{
+  background-color:#2589BD ;
+  position: absolute;
+  top: 0;
+  bottom: 75vh;
+  left: 0;
+  right: 0;
 }
 h1{
   background-color:#2589BD;
